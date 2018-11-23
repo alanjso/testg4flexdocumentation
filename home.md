@@ -3,4 +3,10 @@
 
 Página dedicada para hospedar toda a documentação da G4Flex.
 
+How To: http://10.8.20.69:4200/how-to-flex-inquiry-docker-cent-os-6-x#how-to-flex-inquiry-centos-6-x
+
+-----
+
+Segunda Página: 
+
 ![Logog 4](/uploads/logog-4.png "Logog 4")
