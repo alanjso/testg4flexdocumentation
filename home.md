@@ -7,6 +7,6 @@ How To: http://10.8.20.69:4200/how-to-flex-inquiry-docker-cent-os-6-x#how-to-fle
 
 -----
 
-Segunda Página: 
+Segunda Página: http://10.8.20.69:4200/segunda-pagina#header
 
 ![Logog 4](/uploads/logog-4.png "Logog 4")
