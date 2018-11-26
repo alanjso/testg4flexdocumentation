@@ -3,11 +3,11 @@
 
 Página dedicada para hospedar toda a documentação da G4Flex.
 
-[How To Flex Inquiry Cent OS 6.x](http://10.8.20.69:4200/how-to-flex-inquiry-docker-cent-os-6-x#how-to-flex-inquiry-centos-6-x)
+[How To Flex Inquiry Cent OS 6.x](http://10.8.20.69/how-to-flex-inquiry-docker-cent-os-6-x#how-to-flex-inquiry-centos-6-x)
 
 -----
 
-[Segunda Página:](http://10.8.20.69:4200/segunda-pagina#header)
+[Segunda Página:](http://10.8.20.69/segunda-pagina#header)
 
 -----
 
