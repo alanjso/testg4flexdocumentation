@@ -7,7 +7,7 @@ Página dedicada para hospedar toda a documentação da G4Flex.
 
 -----
 [Integração SMS API](http://10.8.20.69/integracao-sms-api#escolha-sua-versao)
------
+
 
 
 
