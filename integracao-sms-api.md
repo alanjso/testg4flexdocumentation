@@ -21,18 +21,10 @@ Efetua autentcação na plataforma de integração. É enviado um POST com “lo
 Corpo do JSON enviado via **POST**
 ```json
 Header: {
-
 Content-Type: “application/json”
-
 }
-
-Body:
-
-{
-
+Body: {
 "username": "admin",
-
 "password": "g3quatro!@#flexreload"
-
 }
 ```
