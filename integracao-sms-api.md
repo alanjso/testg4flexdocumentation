@@ -12,3 +12,25 @@ Efetua autentcação na plataforma de integração. É enviado um POST com “lo
 |----------------|--------------|-------------------|-------------------------------|
 |    login       |    String    |    Sim            |    Login cedido pela G4fex    |
 |    password    |    String    |    Sim            |    Senha cedida pela G4fex    |
+
+
+**Endereço de envio:**
+“http://<ipserver>:<porta>/v1/sign_in”
+
+**Exemplo de requisição:**
+Corpo do JSON enviado via **POST**
+**Header:** {
+
+Content-Type: “application/json”
+
+}
+
+**Body:**
+
+{
+
+"username": "admin",
+
+"password": "g3quatro!@#flexreload"
+
+}
