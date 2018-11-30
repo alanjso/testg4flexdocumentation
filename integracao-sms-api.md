@@ -21,7 +21,7 @@ Efetua autentcação na plataforma de integração. É enviado um POST com “lo
 Corpo do JSON enviado via **POST**
 ```json
 Header: {
-Content-Type: “application/json”
+"Content-Type": “application/json”
 }
 Body: {
 "username": "admin",
