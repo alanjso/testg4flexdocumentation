@@ -11,7 +11,7 @@ Página dedicada para hospedar toda a documentação da G4Flex.
 -----
 
 
-
+![Logog 4](/uploads/logog-4.png "Logog 4"){.pagelogo}
 
 
 ![Logog 4](/uploads/logog-4.png "Logog 4"){.align-center}
