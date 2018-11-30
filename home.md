@@ -7,8 +7,6 @@ Página dedicada para hospedar toda a documentação da G4Flex.
 
 -----
 
-[Segunda Página:](http://10.8.20.69/segunda-pagina#header)
-
 -----
 
 
