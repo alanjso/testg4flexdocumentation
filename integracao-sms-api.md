@@ -15,7 +15,7 @@ Efetua autentcação na plataforma de integração. É enviado um POST com “lo
 
 
 **Endereço de envio:**
-“http://<ipserver>:<porta>/v1/sign_in”
+```“http://<ipserver>:<porta>/v1/sign_in”```
 
 **Exemplo de requisição:**
 Corpo do JSON enviado via **POST**
