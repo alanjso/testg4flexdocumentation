@@ -19,7 +19,7 @@ Efetua autentcação na plataforma de integração. É enviado um POST com “lo
 
 **Exemplo de requisição:**
 Corpo do JSON enviado via **POST**
-```
+```json
 Header: {
 
 Content-Type: “application/json”
